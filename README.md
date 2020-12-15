@@ -1,1 +1,2 @@
 # lovak
+Itt gyakorolhatsz hozzájárulni. 
