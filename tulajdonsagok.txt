@@ -1,3 +1,5 @@
 A ló tulajdonságai:
+lábak száma:
 Gyors 
 4 lábú
+
