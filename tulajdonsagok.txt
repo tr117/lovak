@@ -1,3 +1,10 @@
 A ló tulajdonságai:
+
 Van füle 
 Négy lába van
+
+lábak száma: 4
+Gyors 
+4 lábú
+
+
