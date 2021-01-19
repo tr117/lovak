@@ -1,2 +1,3 @@
 # lovak
-Itt gyakorolhatsz hozzájárulni. 
+Lábak száma: 4
+Patái vannak

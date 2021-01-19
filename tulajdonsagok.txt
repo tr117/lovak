@@ -1,11 +1,9 @@
 A ló tulajdonságai:
-
+4 lába van
+Patái vannak
 Van füle 
 Négy lába van
-
-lábak száma: 4
 Gyors 
-4 lábú
 
 Lófajták: 
 Arab telivér
