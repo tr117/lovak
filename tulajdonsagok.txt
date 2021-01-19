@@ -6,5 +6,5 @@ Négy lába van
 lábak száma: 4
 Gyors 
 4 lábú
-
+Lófajták: 
 
