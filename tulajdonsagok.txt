@@ -6,5 +6,12 @@ Négy lába van
 lábak száma: 4
 Gyors 
 4 lábú
-Lófajták: Kunfakó
+
+Lófajták: 
+Arab telivér
+Magyar félvér
+Kunfakó
+Izraeli ló
+
+szemeinek száma:
 
