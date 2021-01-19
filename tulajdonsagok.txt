@@ -1,1 +1,16 @@
+A ló tulajdonságai:
+Patái vannak
+Van füle 
+Négy lába van
+Gyors 
+
+Lófajták: 
+Arab telivér
+Magyar félvér
+Kunfakó
+Izraeli ló
+Campolino
+Bugatti
 Berber ló
+
+szemeinek száma:2
