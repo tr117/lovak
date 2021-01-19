@@ -1,4 +1,7 @@
 A ló tulajdonságai:
+
+Párosujjú patások
+
 Patái vannak
 Van füle 
 Négy lába van
@@ -13,5 +16,6 @@ Campolino
 Bugatti
 Berber ló
 Arany Amerikai Hátasló
+Hunter
 
 szemeinek száma:2
