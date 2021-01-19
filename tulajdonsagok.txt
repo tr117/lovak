@@ -1,5 +1,12 @@
 A ló tulajdonságai:
-lábak száma:
+
+Van füle 
+Négy lába van
+
+lábak száma: 4
 Gyors 
 4 lábú
-
+Lófajták: 
+Arab telivér
+Magyar félvér
+szemeinek száma:
