@@ -1,12 +1,17 @@
 A ló tulajdonságai:
-
+Patái vannak
 Van füle 
 Négy lába van
-
-lábak száma: 4
 Gyors 
-4 lábú
+
 Lófajták: 
 Arab telivér
 Magyar félvér
-szemeinek száma:
+Kunfakó
+Izraeli ló
+Campolino
+Bugatti
+Berber ló
+Arany Amerikai Hátasló
+
+szemeinek száma:2
