@@ -8,3 +8,4 @@ Gyors
 4 lábú
 Lófajták: 
 
+szemeinek száma:
