@@ -7,4 +7,5 @@ lábak száma: 4
 Gyors 
 4 lábú
 Lófajták: 
+Arab telivér
 
