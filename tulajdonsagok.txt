@@ -1,5 +1,4 @@
 A ló tulajdonságai:
-4 lába van
 Patái vannak
 Van füle 
 Négy lába van
@@ -12,5 +11,6 @@ Kunfakó
 Izraeli ló
 Campolino
 Bugatti
+Berber ló
 
 szemeinek száma:2
