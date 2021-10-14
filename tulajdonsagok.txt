@@ -1,5 +1,7 @@
 A ló tulajdonságai:
-4 lába van
+
+Párosujjú patások
+
 Patái vannak
 Van füle 
 Négy lába van
@@ -12,5 +14,9 @@ Kunfakó
 Izraeli ló
 Campolino
 Bugatti
+Berber ló
+Arany Amerikai Hátasló
+Hunter
+Indiai ló
 
 szemeinek száma:2
